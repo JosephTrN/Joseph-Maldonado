@@ -1,0 +1,58 @@
+.container{
+    
+    margin:100px 80px;
+    width: 90%;
+
+    
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.tex-center{
+    text-align: center;
+}
+.precio{
+    color: darkseagreen; 
+    font-size: 70px;
+    border-radius: 550px;
+   
+}
+.columna{
+    background: #cdfffc ;
+    border-radius:10px;
+    box-shadow: -10px 10px 5px #ffc764;
+    padding: 10px;
+    margin: 0 auto;
+    width: 29%;
+    box-sizing: border-box;
+    
+    
+}
+.boton{
+    background: seashell;
+    padding: 15px;
+    color: rgb(96, 82, 187) ;
+    text-decoration: none ;
+    border:orange 3px;
+    display: block;
+    border-radius: 20px;
+    margin-bottom: 5px;
+    
+}
+
+.boton:hover{
+    background: cadetblue;
+}
+
+@media (max-width: 1070px){
+.columna{
+    width: 45%;
+    margin-bottom: 10%;
+}
+
+
+#marg{
+    margin: 100px ;
+}
