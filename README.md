@@ -1,4 +1,3 @@
 # Joseph-Maldonado
 Repositorio para interfaz web
-
-Esta es mi tarea de interfaz Web 
+Aquí se encuentra la tarea de la creacion de un Chat 
